@@ -1,0 +1,192 @@
+{
+  "Part_B_Default": [
+    {
+      "pcap_file": "PCAP_1_H1.pcap",
+      "resolver": "default_resolver",
+      "total_queries": 100,
+      "successfully_resolved": 71,
+      "failed_resolutions": 29,
+      "avg_lookup_latency_ms": 171.86174594180684,
+      "avg_throughput_qps": 30.981481891845977
+    },
+    {
+      "pcap_file": "PCAP_2_H2.pcap",
+      "resolver": "default_resolver",
+      "total_queries": 100,
+      "successfully_resolved": 62,
+      "failed_resolutions": 38,
+      "avg_lookup_latency_ms": 345.7383417314099,
+      "avg_throughput_qps": 17.79217564126515
+    },
+    {
+      "pcap_file": "PCAP_3_H3.pcap",
+      "resolver": "default_resolver",
+      "total_queries": 100,
+      "successfully_resolved": 28,
+      "failed_resolutions": 72,
+      "avg_lookup_latency_ms": 161.06734105518885,
+      "avg_throughput_qps": 8.585982039976047
+    },
+    {
+      "pcap_file": "PCAP_4_H4.pcap",
+      "resolver": "default_resolver",
+      "total_queries": 100,
+      "successfully_resolved": 71,
+      "failed_resolutions": 29,
+      "avg_lookup_latency_ms": 686.5858057854881,
+      "avg_throughput_qps": 14.76908012588936
+    }
+  ],
+  "Part_D_Iterative_NoCache": [
+    {
+      "pcap_file": "PCAP_1_H1.pcap",
+      "resolver": "part_d_resolver",
+      "total_queries": 100,
+      "successfully_resolved": 51,
+      "failed_resolutions": 49,
+      "avg_lookup_latency_ms": 735.8393388635972,
+      "avg_throughput_qps": 11.836373015702799
+    },
+    {
+      "pcap_file": "PCAP_2_H2.pcap",
+      "resolver": "part_d_resolver",
+      "total_queries": 100,
+      "successfully_resolved": 52,
+      "failed_resolutions": 48,
+      "avg_lookup_latency_ms": 765.4690054746775,
+      "avg_throughput_qps": 12.216927309541159
+    },
+    {
+      "pcap_file": "PCAP_3_H3.pcap",
+      "resolver": "part_d_resolver",
+      "total_queries": 100,
+      "successfully_resolved": 50,
+      "failed_resolutions": 50,
+      "avg_lookup_latency_ms": 903.794584274292,
+      "avg_throughput_qps": 14.878756853256782
+    },
+    {
+      "pcap_file": "PCAP_4_H4.pcap",
+      "resolver": "part_d_resolver",
+      "total_queries": 100,
+      "successfully_resolved": 47,
+      "failed_resolutions": 53,
+      "avg_lookup_latency_ms": 983.6669323292184,
+      "avg_throughput_qps": 13.90850781845878
+    }
+  ],
+  "Part_E_Recursive_NoCache": [
+    {
+      "pcap_file": "PCAP_1_H1.pcap",
+      "resolver": "part_e_resolver",
+      "total_queries": 100,
+      "successfully_resolved": 65,
+      "failed_resolutions": 35,
+      "avg_lookup_latency_ms": 210.09107736440805,
+      "avg_throughput_qps": 16.925085735043066
+    },
+    {
+      "pcap_file": "PCAP_2_H2.pcap",
+      "resolver": "part_e_resolver",
+      "total_queries": 100,
+      "successfully_resolved": 66,
+      "failed_resolutions": 34,
+      "avg_lookup_latency_ms": 176.32315375588158,
+      "avg_throughput_qps": 100.72851166759406
+    },
+    {
+      "pcap_file": "PCAP_3_H3.pcap",
+      "resolver": "part_e_resolver",
+      "total_queries": 100,
+      "successfully_resolved": 67,
+      "failed_resolutions": 33,
+      "avg_lookup_latency_ms": 321.1817172036242,
+      "avg_throughput_qps": 16.769105119235928
+    },
+    {
+      "pcap_file": "PCAP_4_H4.pcap",
+      "resolver": "part_e_resolver",
+      "total_queries": 100,
+      "successfully_resolved": 52,
+      "failed_resolutions": 48,
+      "avg_lookup_latency_ms": 392.016575886653,
+      "avg_throughput_qps": 7.957444078153664
+    }
+  ],
+  "Part_F_Iterative_Cache": [
+    {
+      "pcap_file": "PCAP_1_H1.pcap",
+      "resolver": "part_f_iterative_resolver",
+      "total_queries": 100,
+      "successfully_resolved": 14,
+      "failed_resolutions": 86,
+      "avg_lookup_latency_ms": 1624.0870782307215,
+      "avg_throughput_qps": 7.543613050698919
+    },
+    {
+      "pcap_file": "PCAP_2_H2.pcap",
+      "resolver": "part_f_iterative_resolver",
+      "total_queries": 100,
+      "successfully_resolved": 50,
+      "failed_resolutions": 50,
+      "avg_lookup_latency_ms": 924.4343090057373,
+      "avg_throughput_qps": 17.77253256292404
+    },
+    {
+      "pcap_file": "PCAP_3_H3.pcap",
+      "resolver": "part_f_iterative_resolver",
+      "total_queries": 100,
+      "successfully_resolved": 59,
+      "failed_resolutions": 41,
+      "avg_lookup_latency_ms": 1062.4230918237718,
+      "avg_throughput_qps": 11.051906044211377
+    },
+    {
+      "pcap_file": "PCAP_4_H4.pcap",
+      "resolver": "part_f_iterative_resolver",
+      "total_queries": 100,
+      "successfully_resolved": 59,
+      "failed_resolutions": 41,
+      "avg_lookup_latency_ms": 882.2547096317097,
+      "avg_throughput_qps": 19.918428691399946
+    }
+  ],
+  "Part_F_Recursive_Cache": [
+    {
+      "pcap_file": "PCAP_1_H1.pcap",
+      "resolver": "part_f_recursive_resolver",
+      "total_queries": 100,
+      "successfully_resolved": 0,
+      "failed_resolutions": 100,
+      "avg_lookup_latency_ms": 0,
+      "avg_throughput_qps": 17.94131297451312
+    },
+    {
+      "pcap_file": "PCAP_2_H2.pcap",
+      "resolver": "part_f_recursive_resolver",
+      "total_queries": 100,
+      "successfully_resolved": 0,
+      "failed_resolutions": 100,
+      "avg_lookup_latency_ms": 0,
+      "avg_throughput_qps": 18.127735170651135
+    },
+    {
+      "pcap_file": "PCAP_3_H3.pcap",
+      "resolver": "part_f_recursive_resolver",
+      "total_queries": 100,
+      "successfully_resolved": 0,
+      "failed_resolutions": 100,
+      "avg_lookup_latency_ms": 0,
+      "avg_throughput_qps": 17.439728256004305
+    },
+    {
+      "pcap_file": "PCAP_4_H4.pcap",
+      "resolver": "part_f_recursive_resolver",
+      "total_queries": 100,
+      "successfully_resolved": 0,
+      "failed_resolutions": 100,
+      "avg_lookup_latency_ms": 0,
+      "avg_throughput_qps": 16.687017331477815
+    }
+  ]
+}
