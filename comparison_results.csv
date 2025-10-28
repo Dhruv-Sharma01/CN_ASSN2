@@ -15,7 +15,5 @@ Part_F_Iterative_Cache,PCAP_1_H1.pcap,part_f_iterative_resolver,100,14,86,1624.0
 Part_F_Iterative_Cache,PCAP_2_H2.pcap,part_f_iterative_resolver,100,50,50,924.4343090057373,17.77253256292404
 Part_F_Iterative_Cache,PCAP_3_H3.pcap,part_f_iterative_resolver,100,59,41,1062.4230918237718,11.051906044211377
 Part_F_Iterative_Cache,PCAP_4_H4.pcap,part_f_iterative_resolver,100,59,41,882.2547096317097,19.918428691399946
-Part_F_Recursive_Cache,PCAP_1_H1.pcap,part_f_recursive_resolver,100,0,100,0,17.94131297451312
-Part_F_Recursive_Cache,PCAP_2_H2.pcap,part_f_recursive_resolver,100,0,100,0,18.127735170651135
-Part_F_Recursive_Cache,PCAP_3_H3.pcap,part_f_recursive_resolver,100,0,100,0,17.439728256004305
-Part_F_Recursive_Cache,PCAP_4_H4.pcap,part_f_recursive_resolver,100,0,100,0,16.687017331477815
+
+
