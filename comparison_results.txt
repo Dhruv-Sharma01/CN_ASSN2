@@ -150,43 +150,5 @@
       "avg_lookup_latency_ms": 882.2547096317097,
       "avg_throughput_qps": 19.918428691399946
     }
-  ],
-  "Part_F_Recursive_Cache": [
-    {
-      "pcap_file": "PCAP_1_H1.pcap",
-      "resolver": "part_f_recursive_resolver",
-      "total_queries": 100,
-      "successfully_resolved": 0,
-      "failed_resolutions": 100,
-      "avg_lookup_latency_ms": 0,
-      "avg_throughput_qps": 17.94131297451312
-    },
-    {
-      "pcap_file": "PCAP_2_H2.pcap",
-      "resolver": "part_f_recursive_resolver",
-      "total_queries": 100,
-      "successfully_resolved": 0,
-      "failed_resolutions": 100,
-      "avg_lookup_latency_ms": 0,
-      "avg_throughput_qps": 18.127735170651135
-    },
-    {
-      "pcap_file": "PCAP_3_H3.pcap",
-      "resolver": "part_f_recursive_resolver",
-      "total_queries": 100,
-      "successfully_resolved": 0,
-      "failed_resolutions": 100,
-      "avg_lookup_latency_ms": 0,
-      "avg_throughput_qps": 17.439728256004305
-    },
-    {
-      "pcap_file": "PCAP_4_H4.pcap",
-      "resolver": "part_f_recursive_resolver",
-      "total_queries": 100,
-      "successfully_resolved": 0,
-      "failed_resolutions": 100,
-      "avg_lookup_latency_ms": 0,
-      "avg_throughput_qps": 16.687017331477815
-    }
   ]
 }
